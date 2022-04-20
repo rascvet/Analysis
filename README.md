@@ -1,6 +1,7 @@
 # System Analysis
-**Description:** sample of analytics documents for abstract pizza delivery application
 ![Alt-текст](logo.jpg "Заголовок изображения")
+
+**Description:** sample of analytics documents for abstract pizza delivery application
 ## Here are examples of my analytics documents:
 - [Use-cases](uc/readme.md)
 - [BPMN samples](bpmn/)
