@@ -3,6 +3,8 @@
 
 **Description:** sample of analytics documents for abstract pizza delivery application
 ## Here are examples of my analytics documents:
+- [User stories](us/readme.md)
+- [Business Requirements](br/readme.md)
 - [Use-cases](uc/readme.md)
 - [BPMN samples](bpmn/)
 - [UML samples](uml/)
