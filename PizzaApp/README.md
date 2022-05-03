@@ -1,4 +1,4 @@
-# System Analysis
+# PizzaAPP - System Analysis
 ![Alt-текст](logo.jpg "Pizza sample app")
 
 **Description:** sample of analytics documents for abstract pizza delivery application
