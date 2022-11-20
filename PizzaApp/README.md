@@ -5,7 +5,7 @@
 ## Here are examples of my analytics documents:
 - [User stories](us/readme.md)
 - [Business Requirements](br/readme.md)
-- [Use-cases](uc/readme.md)
+- [Use-cases](UC/readme.md)
 - [BPMN samples](bpmn/)
 - [UML samples](uml/)
 - [Corner cases](cc/readme.md)
